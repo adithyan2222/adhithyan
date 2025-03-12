@@ -1,4 +1,4 @@
-public class adhi{
+public class sub{
     public static void main(String args[]){
         int X=10; 
         int Y=20; 
