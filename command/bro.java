@@ -1,12 +1,11 @@
-public class bro{
-    /*
-        1)bro file
-        2)using variables
-    */
+public class add{
+    int add(int a,int b){
+        int c=a+b;
+        return c;
+    }
     public static void main(String args[]){
-        int X=10; //this is int value
-        int Y=20; //this is int value
-        int Z=X+Y;
-        System.out.println(Z);
+        add van = new add();
+        int 1 = van.add(34,57);
+        System.out.println(1);
     }
 }
