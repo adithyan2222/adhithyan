@@ -1,8 +1,8 @@
 public class bro{
     public static void main(String args[]){
-        int a=10;
-        int b=20;
-        int c=a+b;
-        System.out.println("int c");
+        int X=10; //this is int value
+        int Y=20; //this is int value
+        int Z=X+Y;
+        System.out.println(Z);
     }
 }
